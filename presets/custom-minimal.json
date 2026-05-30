@@ -524,7 +524,7 @@
       "borderColor": "#FF858283",
       "groupId": "ga",
       "id": "a-dd",
-      "imageURL": "https://raw.githubusercontent.com/rockersioaio/BetterFormatter/main/images/digitalplus.png",
+      "imageURL": "https://raw.githubusercontent.com/rockersioaio/Omni-Template-Bot-Bid-Raiser/main/Other/white%20regex%20tags/white_DD.png",
       "isEnabled": true,
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)",
