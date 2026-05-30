@@ -209,7 +209,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/rockersioaio/BetterFormatter/main/images/vision.png",
