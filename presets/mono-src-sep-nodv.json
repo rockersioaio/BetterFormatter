@@ -212,7 +212,7 @@
       "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/rockersioaio/BetterFormatter/main/images/vision.png",
+      "imageURL": "https://raw.githubusercontent.com/rockersioaio/BetterFormatter/main/images/vision-w.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
